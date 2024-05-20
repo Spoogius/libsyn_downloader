@@ -14,6 +14,8 @@ For all episodes of a show do the following. ([Procedure taken from BioSchokoMuf
 4) Copy the console output to a file with no leading or trailing empty lines
 5) Save and close the file
 
+`podlist.txt` contains an example for what the input file should look like. It contains all episodes through May 20th 2024 of the [Just and Sinner Podcast](https://justandsinner.libsyn.com/).
+
 Next run the script on any linux machine by passing the episode list file to `script.sh`.\
 ```./script.sh <filename>```
 
