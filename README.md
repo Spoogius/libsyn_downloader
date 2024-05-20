@@ -3,6 +3,8 @@ BASH script to mass download podcasts from libsyn hosted sites
 
 ## Usage
 
+This was developed for, and is intended to run, on Linux. Alternativly it has been tested using [Cygwin](https://www.cygwin.com) on Windows 11.
+
 First create file containing a complete list of links of all the episodes desired.
 
 For all episodes of a show do the following. ([Procedure taken from BioSchokoMuffin's comment here](https://www.reddit.com/r/DataHoarder/comments/d6fp8q/scraping_links_from_libsyn/))
