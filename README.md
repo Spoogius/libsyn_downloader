@@ -1,5 +1,5 @@
 # libsyn_downloader
-BASH script to mass download podcast from libsyn hosted sites
+BASH script to mass download podcasts from libsyn hosted sites
 
 ## Usage
 
